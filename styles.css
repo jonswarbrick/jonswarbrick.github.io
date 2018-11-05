@@ -53,7 +53,7 @@ body {
 	padding: 10px 9px 10px 9px;
 	width: auto;
 	height: auto;
-	font-size: 17px;	
+	font-size: 17px;
 	display: list-item;
 	color: black;
 	font: 17px "Georgia", sans-serif;
@@ -76,10 +76,10 @@ li:hover {
 }
 .showdiv {
 	display: block;
-} 
+}
 .hidediv {
 	display: none;
-} 
+}
 h2 {
 	color: black;
 	font: 17px "Georgia", sans-serif;
