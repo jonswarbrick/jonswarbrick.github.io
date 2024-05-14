@@ -195,6 +195,12 @@
 	color: #FFFFFF;
 	letter-spacing: 2px;
 }
+
+.paper_list {
+	font-size: 0.9em;
+	letter-spacing: -0.5px;
+}
+
 body {
 	margin-top: 0px;
 	margin-right: 0px;
