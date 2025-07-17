@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Current Projects and Work-in-Progress
+## Current Projects
 
 - **Macroprudential policy in an inflationary environment** (with Diana Lima, Duarte Maia and Stelios Tsiaras)
 
