@@ -23,12 +23,12 @@ permalink: /cv/
 </style>
 
 <div class="cv-download-link">
-  <p>You can view the CV <a href="/resources/jonathanswarbrickCV_may2025.pdf" target="_blank">here</a>.</p>
+  <p>You can view the CV <a href="/resources/jonathanswarbrickCV_july2025.pdf" target="_blank">here</a>.</p>
 </div>
 
 <div class="cv-iframe">
-  <iframe src="/resources/jonathanswarbrickCV_may2025.pdf#navpanes=0&view=FitH" width="100%" height="900px" style="border:none;">
+  <iframe src="/resources/jonathanswarbrickCV_july2025.pdf#navpanes=0&view=FitH" width="100%" height="900px" style="border:none;">
     This browser does not support PDFs. Please download the PDF to view it:
-    <a href="/resources/jonathanswarbrickCV_may2025.pdf">Download PDF</a>.
+    <a href="/resources/jonathanswarbrickCV_july2025.pdf">Download PDF</a>.
   </iframe>
 </div>
