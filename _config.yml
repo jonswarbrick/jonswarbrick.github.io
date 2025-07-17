@@ -1,0 +1,16 @@
+title: Jonathan Swarbrick
+email: jswarbrick@pm.me
+description: Personal website of Jonathan Swarbrick. Lecturer in Economics at the University of St Andrews.
+baseurl: ""  # Leave blank for GitHub Pages user site (i.e. jonswarbrick.github.io)
+url: "https://www.jonathanswarbrick.uk"
+
+plugins:
+  - jekyll-feed   
+
+navigation:
+  - title: Home
+    url: /
+  - title: CV
+    url: /cv/
+  - title: Research
+    url: /research/

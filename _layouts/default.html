@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }} — {{ site.title }}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+  <div class="page_title">
+    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+  </div>
+  <div class="burger" id="burgerMenu" onclick="toggleMenu()">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  <nav class="nav-links" id="navLinks">
+    <div class="mobile-only">
+      <a href="javascript:void(0)" class="close-btn" onclick="toggleMenu()">×</a>
+    </div>
+    {% for item in site.navigation %}
+      <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.title }}</a>
+    {% endfor %}
+  </nav>
+</header>
+
+    <section class="left_article">
+      {{ content }}
+    </section>
+  </div>
+  <div id="overlay" class="overlay" onclick="toggleMenu()"></div>
+  <script>
+    function toggleMenu() {
+      var menu = document.getElementById("navLinks");
+      var overlay = document.getElementById("overlay");
+      menu.classList.toggle("show");
+      overlay.classList.toggle("show");
+    }
+  </script>
+</body>
+</html>
