@@ -6,13 +6,15 @@ permalink: /research/
 
 ## Current Projects
 
+- **Macroeconomic Impacts of the Transition to Net Zero in Canada**  (with Thomas Carter, Tatjana Dahlhaus, Madan Ghosh, Craig Johnston, Yena Joo, Stephen Murchison, Genevieve Nelson, Rachit Lumb, Alexander Ueberfeldt, Raven Wheesk, Yinxi Xie, and Yang Zhang)  _R&R at Journal of Financial Stability_
+
 - **Macroprudential policy in an inflationary environment** (with Diana Lima, Duarte Maia and Stelios Tsiaras)
 
 - **Test the Stress: the role of the interest rate stress in the DSTI constraint in a high interest rate environment** (with Diana Lima, Duarte Maia and Ivan De Lorenzo Buratta)
 
 - **Monetary Policy and the Credit Rationing Effects of Liquidity**
 
-- **Macroeconomic Impacts of the Transition to Net Zero in Canada**  (with Thomas Carter, Tatjana Dahlhaus, Madan Ghosh, Craig Johnston, Yena Joo, Stephen Murchison, Genevieve Nelson, Rachit Lumb, Alexander Ueberfeldt, Raven Wheesk, Yinxi Xie, and Yang Zhang)  _R&R at Journal of Financial Stability_
+- **State-Dependent Price Setting Along the Supply Chain** (with Guido Ascari, Isabelle Salle, Laure Simon, and Yang Zhang)
 
 
 ## Publications
