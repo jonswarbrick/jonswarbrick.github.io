@@ -16,6 +16,8 @@ permalink: /research/
 
 - **State-Dependent Price Setting Along the Supply Chain** (with Guido Ascari, Isabelle Salle, Laure Simon, and Yang Zhang)
 
+- **Budgets Under Pressure: How Rigidities Impact Fiscal Multipliers** (with John León-Díaz, Oscar Valencia, and Sarah Zubairy)
+
 
 ## Publications
 
