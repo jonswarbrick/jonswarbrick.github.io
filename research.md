@@ -12,7 +12,7 @@ permalink: /research/
 
 - **Test the Stress: the role of the interest rate stress in the DSTI constraint in a high interest rate environment** (with Diana Lima, Duarte Maia and Ivan De Lorenzo Buratta)
 
-- **Monetary Policy and the Credit Rationing Effects of Liquidity** [<a href="https://www.st-andrews.ac.uk/~wwwecon/repecfiles/econdp/2601.pdf" target="_blank" rel="noopener">working paper</a>]
+- **Monetary Policy and the Credit Rationing Effects of Liquidity** 
 
 - **State-Dependent Price Setting Along the Supply Chain** (with Guido Ascari, Isabelle Salle, Laure Simon, and Yang Zhang)
 
