@@ -6,13 +6,13 @@ permalink: /research/
 
 ## Current Projects
 
-- **Macroeconomic Impacts of the Transition to Net Zero in Canada**  (with Thomas Carter, Tatjana Dahlhaus, Madan Ghosh, Craig Johnston, Yena Joo, Stephen Murchison, Genevieve Nelson, Rachit Lumb, Alexander Ueberfeldt, Raven Wheesk, Yinxi Xie, and Yang Zhang)  _R&R at Journal of Financial Stability_
+- **Macroeconomic Impacts of the Transition to Net Zero in Small Open Economies: A Case Study for Canada**  (with Tatjana Dahlhaus, Madan Ghosh, Yena Joo, Stephen Murchison, Genevieve Nelson, Rachit Lumb, Alexander Ueberfeldt, Raven Wheesk, Yinxi Xie, and Yang Zhang)  _R&R at Journal of Financial Stability_
 
-- **Macroprudential policy in an inflationary environment** (with Diana Lima, Duarte Maia and Stelios Tsiaras)
+- **Beyond monetary policy: Macroprudential responses to inflationary shocks** (with Diana Lima, Paul Levine, Duarte Maia and Stelios Tsiaras) [<a href="https://www.bportugal.pt/paper/beyond-monetary-policy-macroprudential-responses-inflationary-shocks" target="_blank" rel="noopener">working paper version</a>]
 
 - **Test the Stress: the role of the interest rate stress in the DSTI constraint in a high interest rate environment** (with Diana Lima, Duarte Maia and Ivan De Lorenzo Buratta)
 
-- **Monetary Policy and the Credit Rationing Effects of Liquidity** 
+- **Monetary Policy and the Credit Rationing Effects of Liquidity** _Under review [<a href="/resources/liquidity_and_rationing.pdf" target="_blank" rel="noopener">download</a>]
 
 - **State-Dependent Price Setting Along the Supply Chain** (with Guido Ascari, Isabelle Salle, Laure Simon, and Yang Zhang)
 
@@ -35,6 +35,8 @@ permalink: /research/
 
 ## Working Papers
 
+- [**Beyond monetary policy: Macroprudential responses to inflationary shocks** (2026)](https://www.bportugal.pt/paper/beyond-monetary-policy-macroprudential-responses-inflationary-shocks) with Diana Lima, Paul Levine, Duarte Maia and Stylianos Tsiaras, **Banco de Portugal Working Paper** 2026-09
+
 - [**Sequencing Extended Monetary Policies at the Effective Lower Bound** (2021)](https://www.bankofcanada.ca/wp-content/uploads/2021/07/sdp2021-10.pdf) with Tudor Schlanger, Lena Suchanek, Joel Wagner and Yang Zhang, **Bank of Canada Staff Discussion Paper** 2021-10
 
 - [**Occasionally Binding Constraints in Large Models: A Review of Solution Methods** (2021)](https://www.bankofcanada.ca/wp-content/uploads/2021/03/sdp2021-5.pdf)**Bank of Canada Staff Discussion Paper** 2021-5
@@ -45,6 +47,4 @@ permalink: /research/
 
 - **Business cycles in space** with Tom Holden
 
-- **A Horse Race of Monetary Policy Strategies for Canada** with Yang Zhang
-
-- **Kimball Preferences in the Smets-Wouters NK Model** with Szabolcs Deak, Paul Levine and Maryam Mirfatah
+- **A Horse Race of Monetary Policy Strategies for Canada** with Yang Zhang 
