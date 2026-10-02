@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Current Projects
 
-- **Macroeconomic Impacts of the Transition to Net Zero in Small Open Economies: A Case Study for Canada**  (with Tatjana Dahlhaus, Madan Ghosh, Yena Joo, Stephen Murchison, Genevieve Nelson, Rachit Lumb, Alexander Ueberfeldt, Raven Wheesk, Yinxi Xie, and Yang Zhang)  _R&R at Journal of Financial Stability_
+- **Macroeconomic Impacts of the Transition to Net Zero in Small Open Economies: A Case Study for Canada**  (with Tatjana Dahlhaus, Madan Ghosh, Yena Joo, Stephen Murchison, Genevieve Nelson, Rachit Lumb, Alexander Ueberfeldt, Raven Wheesk, Yinxi Xie, and Yang Zhang)  _R&R at Journal of Financial Stability_ [<a href="https://www.st-andrews.ac.uk/~wwwecon/repecfiles/econdp/2604.pdf" target="_blank" rel="noopener">working paper version</a>]
 
 - **Beyond monetary policy: Macroprudential responses to inflationary shocks** (with Diana Lima, Paul Levine, Duarte Maia and Stelios Tsiaras) [<a href="https://www.bportugal.pt/paper/beyond-monetary-policy-macroprudential-responses-inflationary-shocks" target="_blank" rel="noopener">working paper version</a>]
 
